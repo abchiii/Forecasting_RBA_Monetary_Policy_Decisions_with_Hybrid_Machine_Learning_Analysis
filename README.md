@@ -1,4 +1,4 @@
-# Forecasting RBA Monetary Policy Decisions with Hybrid Machine Learning Analysis
+# RBA_Cash_Rate_Prediction_with_Machine_Learning_Analysis
 
 **Author:** Ching-Ting Huang (Collaborated with 3 group members)  
 
