@@ -20,7 +20,7 @@ The analysis is conducted in **Python** using a rigorous data science workflow:
 ### 1. Data Preprocessing & Selection
 * **Variable Selection:** 26 key variables were selected with 3 lags based on economic literature, categorided into Domestic Economic Indicators, Foreign Financial Variables, and Domestic Financial Markets. Our dataset spans from June 2000 to September 2024.
 * **Hybrid Feature Selection:**
-    * **Lasso Regression (L1):** Used for initial dimensionality reduction and regularisation.
+    * **LASSO Regression (L1):** Used for initial dimensionality reduction and regularisation.
     * **Random Forest Feature Importance:** Applied to refine the variable set and identify non-linear contributors.
     * **Interaction Refinement:** Pairwise interactions were generated for selected features to capture complex dependencies.
 
